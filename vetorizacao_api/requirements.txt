@@ -1,0 +1,12 @@
+# --- Web & API ---
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+
+# --- NLP, ML & Graph ---
+numpy
+networkx
+scikit-learn
+pypdf
+llama-index-core

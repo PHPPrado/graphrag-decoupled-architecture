@@ -1,0 +1,13 @@
+# =====================================================================
+# Dependencias de NUVEM (opcional)
+#
+# Instale apenas se for usar AWS S3 e/ou APIs no `.env`:
+#     pip install -r requirements-cloud.txt
+# =====================================================================
+
+# --- AWS S3 (STORAGE_BACKEND=s3) ---
+boto3
+
+# --- APIs compativeis com OpenAI
+#     (EMBEDDING_BACKEND=openai / SUMMARIZER_BACKEND=openai) ---
+requests
