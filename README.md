@@ -86,7 +86,7 @@ Motor_vetorizacao/
 
 Copie o modelo e ajuste os valores. **Nenhuma variável é obrigatória** — os padrões já funcionam localmente:
 
-```bash
+```bash 
 cd vetorizacao_api
 cp .env.example .env
 ```
